@@ -1,0 +1,8 @@
+{
+	"/": [],
+	"/blog": [],
+	"/blog/list": [],
+	"/blog/[slug]": [
+		"src/routes/blog/[slug]/+page.server.js"
+	]
+}
